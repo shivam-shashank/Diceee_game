@@ -1,0 +1,28 @@
+body{
+	background-image: url(images/Background.png);
+	overflow: hidden;
+	padding: 3%;
+}
+
+h1{
+	font-family: 'Lobster', cursive;
+	text-shadow: 5px 0 #232931;
+	color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img{
+	width: 40%;
+}
+
+footer{
+	  padding-top: 2rem;
+	  color: #EEEEEE;
+	  text-align: center;
+	  font-family: 'Indie Flower', cursive;
+}
